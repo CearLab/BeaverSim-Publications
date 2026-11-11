@@ -1,0 +1,17 @@
+
+# folders
+pyenv/
+.vscode/
+.conda/
+__pycache__/
+output/
+resources/images/
+resources/doc
+beaversim_env/
+
+# files
+core.*
+*.pyc
+*.mp4
+*.env
+
